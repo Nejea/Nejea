@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nejea
-- 👀 I’m interested in codind as a beginner
+- 👀 I’m interested in coding as a beginner
 - 🌱 I’m currently learning Python and C
 
 
